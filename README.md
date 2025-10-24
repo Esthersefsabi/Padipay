@@ -1,7 +1,3 @@
-Here’s a professional and engaging **README** for your project, renamed to **PadiPay** while keeping the full essence of **Lockstarrr**:
-
----
-
 # 🎉 **PadiPay**
 
 **PadiPay** is a modern financial tool designed to help women seamlessly **plan, save, and collaborate** for special occasions — from birthdays to bridal showers and every celebration in between.
